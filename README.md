@@ -34,6 +34,7 @@ There are a number of things to consider when adopting a dependency into your ap
 - Unmaintained libraries
 - Dead libraries
 - Unresponsive issue trackers
+- Deleted/removed code
 
 ## Bus Factor
 
