@@ -1,5 +1,16 @@
 # Hell is other people's code
 
+- 1. [Dependencies](#Dependencies)
+- 2. [Licensing](#Licensing)
+- 3. [Security](#Security)
+- 4. [Support](#Support)
+- 5. [Bus Factor](#Bus Factor)
+- 6. [Bitrot](#Bitrot)
+- 7. [Risk](#Risk)
+- 8. [Mitigation](#Mitigation)
+
+## Intro
+
 You probably depend on some open source code, but do you realize the potential risks of doing it?
 
 Over 30% of all open source projects use a package manager to declare at least one dependency
