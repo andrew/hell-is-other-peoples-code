@@ -21,6 +21,7 @@ There are a number of things to consider when adopting a dependency into your ap
 - Copyleft licenses
 - Conflicting licenses
 - Transitive licenses
+- Non-Open Source Licenses (example: greensock)
 
 ## Security
 
