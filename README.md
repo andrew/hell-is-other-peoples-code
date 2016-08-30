@@ -1,13 +1,13 @@
 # Hell is other people's code
 
-- 1. [Dependencies](#Dependencies)
-- 2. [Licensing](#Licensing)
-- 3. [Security](#Security)
-- 4. [Support](#Support)
-- 5. [Bus Factor](#Bus Factor)
-- 6. [Bitrot](#Bitrot)
-- 7. [Risk](#Risk)
-- 8. [Mitigation](#Mitigation)
+- 1. [Dependencies](#dependencies)
+- 2. [Licensing](#licensing)
+- 3. [Security](#security)
+- 4. [Support](#support)
+- 5. [Bus Factor](#bus-factor)
+- 6. [Bitrot](#bitrot)
+- 7. [Risk](#risk)
+- 8. [Mitigation](#mitigation)
 
 ## Intro
 
