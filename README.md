@@ -15,7 +15,7 @@ You probably depend on some open source code, but do you realize the potential r
 
 Over 30% of all open source projects use a package manager to declare at least one dependency
 
-The average open source ruby project has 50 dependencies and the average node.js project has over 150 dependencies on third party code. 
+The average open source ruby project has 50 dependencies and the average node.js project has over 150 dependencies on third party code.
 
 TODO **finish dependency counting research**
 
@@ -23,10 +23,11 @@ There are a number of things to consider when adopting a dependency into your ap
 
 ## Dependencies
 
+- "You don't download, or import, a software dependency, you adopt it. Like adopting pets, it's a responsibility for the life of your product." - https://twitter.com/davecheney/status/616931340466786304
 - package managers
 - transitive dependencies
 
-## Licensing 
+## Licensing
 
 - Unlicensed code
 - Copyleft licenses
@@ -56,8 +57,9 @@ There are a number of things to consider when adopting a dependency into your ap
 - Package manager publish bit
 
 
-## Bitrot 
+## Bitrot
 
+- Software being "Done" is like lawn being "Mowed" - https://twitter.com/ourfounder/status/770075137332932608
 - The gradual decay of working software
 - parallax train animation
 - OS -> system level dependencies -> application level dependencies -> application
